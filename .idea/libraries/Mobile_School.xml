@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Mobile_School">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/portfolio/site/Mobile_School.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
